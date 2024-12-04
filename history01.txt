@@ -1,0 +1,16 @@
+ 1088  git log
+ 1089  pwd
+ 1090  ls
+ 1091  ls -la
+ 1092  git status
+ 1093  cd ..
+ 1094  cd ..
+ 1095  ls
+ 1096  mkdir test
+ 1097  cd test
+ 1098  git clone https://github.com/mytest4mail03/sample01.git
+ 1099  ls
+ 1100  cd sample01
+ 1101  clear
+ 1102  pwd
+ 1103  git status
